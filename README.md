@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 new to code world
 
 <!--
 **yashicaravi369/yashicaravi369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
